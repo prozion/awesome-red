@@ -5,7 +5,7 @@
 - [Redstarter](https://redstarter.ru/)
 
 ### Кооперативы
-- [Думай Сам / Думай Сейчас](https://www.youtube.com/channel/UCalD8p9-KemFd8AQfS6mmVA) - Студия социальных видеороликов и документальных фильмов.
+- [Думай Сам / Думай Сейчас](https://boosty.to/yhinkyourself) - Студия социальных видеороликов и документальных фильмов. [[YouTube]](https://www.youtube.com/channel/UCalD8p9-KemFd8AQfS6mmVA).
 - [Соцкооп](https://соцкооп.рф/about) - Потребительский кооператив с ячейками в Москве и Астрахани.
 - [RAD COP](https://radcop.online/) - Разработка решений в сфере информационной безопасности.
 
