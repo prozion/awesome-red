@@ -7,7 +7,7 @@
 - [Redstarter](https://redstarter.ru/) -  Помощь в создании организаций принадлежащих рабочим и управляемых рабочими. [[Telegram]](https://t.me/vivacooperation)
 
 ### Кооперативы
-- [Думай Сам / Думай Сейчас](https://boosty.to/yhinkyourself). Студия социальных видеороликов и документальных фильмов. [[YouTube]](https://www.youtube.com/channel/UCalD8p9-KemFd8AQfS6mmVA)
+- [Думай Сам / Думай Сейчас](https://boosty.to/yhinkyourself) - Студия социальных видеороликов и документальных фильмов. [[YouTube]](https://www.youtube.com/channel/UCalD8p9-KemFd8AQfS6mmVA)
 <!-- - [Клуб Умных Покупателей](https://taplink.cc/_mapc9999) - Совместные закупки в Иваново. -->
 - [Соцкооп](https://соцкооп.рф/about) - Потребительский кооператив с ячейками в Москве и Астрахани.
 - [RAD COP](https://radcop.online/) - Разработка решений в сфере информационной безопасности.
@@ -69,7 +69,6 @@
 <!--
 Анима_Схема founder:Григорий_Нонкон yt:youtube.com/@Anima_Shema yt-n:18.4K
 Борис_Морозов yt:youtube.com/@boris_morozov yt-n:10.7K
-Вестник_Бури founder:Андрей_Рудой yt:youtube.com/@Vestnik_Buri yt-n:320K
 Все_работы_хороши founder:Олег_Assa yt:youtube.com/@vse_raboty_horoshi yt-n:1.2M yt-video-n:62
 Выход_есть name:"Выход есть!" founder:Василий_Садонин yt:youtube.com/@Vasiliy_Sadonin yt-n:106K yt-rec:Клим_Жуков,Думай_сам_Думай_сейчас,Вестник_Бури
 Держать_курс founder:Борис_Б yt:youtube.com/@keepkurs yt-n:164K vk:vk.com/keepkurs1 vk-n:8480
@@ -99,6 +98,7 @@
 Факел a:Newspaper yt:youtube.com/@fakel_mrg yt-n:2.6K yt-video-n:135 vk:vk.com/fakel_mrg vk-n:4463
 -->
 - [АгитПроп](https://youtube.com/@Agit_Prop) - Канал Константина Сёмина.
+- [Вестник Бури](https://youtube.com/@Vestnik_Buri)
 - [Цифровая история](youtube.com/@dhistory) - Егор Яковлев.
 - [Poligraf Red](youtube.com/@poligrafred)
 - [Second Thought](https://youtube.com/@SecondThought) - Ведет американский товарищ из Техаса (на английском)
