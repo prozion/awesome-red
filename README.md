@@ -7,7 +7,7 @@
 - [Redstarter](https://redstarter.ru/) -  Помощь в создании организаций принадлежащих рабочим и управляемых рабочими. [[Telegram]](https://t.me/vivacooperation)
 
 ### Кооперативы
-- [Думай Сам / Думай Сейчас](https://boosty.to/yhinkyourself) - Студия социальных видеороликов и документальных фильмов. [[YouTube]](https://www.youtube.com/channel/UCalD8p9-KemFd8AQfS6mmVA)
+- [Думай Сам / Думай Сейчас](https://boosty.to/yhinkyourself). Студия социальных видеороликов и документальных фильмов. [[YouTube]](https://www.youtube.com/channel/UCalD8p9-KemFd8AQfS6mmVA)
 <!-- - [Клуб Умных Покупателей](https://taplink.cc/_mapc9999) - Совместные закупки в Иваново. -->
 - [Соцкооп](https://соцкооп.рф/about) - Потребительский кооператив с ячейками в Москве и Астрахани.
 - [RAD COP](https://radcop.online/) - Разработка решений в сфере информационной безопасности.
